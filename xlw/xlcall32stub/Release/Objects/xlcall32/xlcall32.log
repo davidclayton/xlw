@@ -1,0 +1,7 @@
+﻿  xlcall32.cpp
+     Creating library Release\xlcall32.lib and object Release\xlcall32.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  xlcall32.vcxproj -> C:\Users\David Clayton\Documents\GitHub\xlw\xlw\xlcall32stub\Release\xlcall32.dll
